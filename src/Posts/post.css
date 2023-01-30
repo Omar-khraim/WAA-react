@@ -1,0 +1,10 @@
+.card {
+ 
+    border: 2px solid #e7e7e7;
+     
+    border-radius: 4px;
+     
+    padding: .5rem;
+    background-color: rgb(26, 13, 171);
+    color: bisque;
+    }
